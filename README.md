@@ -1,7 +1,7 @@
 Hi 👋 My name is Adhiyaman Srinivasan
 =====================================
 
-Currently pursuing an \*\*Integrated 5-year M.Tech\*\* program in \*\*Computer Science Engineering Spl. in Business Analytics\*\*at \*\*VIT Chennai\*\*, combining technical expertise with strategic business insights. Passionate about leveraging \*\*data and technology\*\* to solve \*\*real-world problems\*\*, I enjoy diving into projects that bridge the gap between software development and data-driven decision-making. With experience in \*\*Python\*\*, and \*\*MySQL\*\*, and a keen interest in \*\*web development\*\*, I’m constantly exploring new tools and trends in the tech world. When not coding, you’ll find me \*\*brainstorming fun project ideas\*\* or crafting witty, engaging content but mostly \*\*writing novels.\*\*
+Currently pursuing an **Integrated 5-year M.Tech** program in **Computer Science Engineering Spl. in Business Analytics** at **VIT Chennai**, combining technical expertise with strategic business insights. Passionate about leveraging **data and technology** to solve **real-world problems**, I enjoy diving into projects that bridge the gap between software development and data-driven decision-making. With experience in **Python**, and **MySQL**, and a keen interest in **web development**, I’m constantly exploring new tools, frameworks and everything in between in the tech world. When not coding, you’ll find me **brainstorming fun project ideas**, **writing novels**, finding my true purpose of existence... or just contemplating life choices.
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [adhiyamansrinivasan@gmail.com](mailto:adhiyamansrinivasan@gmail.com)
